@@ -1,0 +1,13 @@
+{
+  "name": "open-innovation-lab",
+  "version": "0.1.0",
+  "homepage": "https://github.com/bustobocanegra/open-innovation-lab",
+  "authors": [
+    "Busto Bocanegra <git@bustobocanegra.com>"
+  ],
+  "description": "OpenInnovationLab website",
+  "license": "MIT",
+  "dependencies": {
+    "foundation": "zurb/bower-foundation#^5.5.2"
+  }
+}
