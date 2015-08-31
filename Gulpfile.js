@@ -9,7 +9,8 @@ gulp.task('sass', function () {
   gulp.src('./_sass/**/*.{scss,sass}')
     .pipe(sourcemaps.init())
       .pipe(sass({
-        outputStyle: 'expanded',
+        //outputStyle: 'expanded',
+        outputStyle: 'compressed',
         includePaths: ['bower_components/foundation/scss']
       })
         .on('error', sass.logError))
