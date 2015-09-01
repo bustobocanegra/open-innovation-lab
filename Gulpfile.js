@@ -11,7 +11,7 @@ gulp.task('sass', function () {
       .pipe(sass({
         //outputStyle: 'expanded',
         outputStyle: 'compressed',
-        includePaths: ['bower_components/foundation/scss']
+        includePaths: ['bower_components/foundation/scss', 'bower_components/font-awesome/scss']
       })
         .on('error', sass.logError))
     .pipe(sourcemaps.write('./'))

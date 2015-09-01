@@ -8,6 +8,8 @@
   "description": "OpenInnovationLab website",
   "license": "MIT",
   "dependencies": {
-    "foundation": "zurb/bower-foundation#^5.5.2"
+    "foundation": "zurb/bower-foundation#^5.5.2",
+    "font-awesome": "FortAwesome/Font-Awesome#^4.4.0",
+    "vertical-timeline": "CodyHouse/vertical-timeline"
   }
 }

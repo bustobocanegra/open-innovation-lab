@@ -1,0 +1,13 @@
+{
+  "name": "vertical-timeline",
+  "homepage": "https://github.com/CodyHouse/vertical-timeline",
+  "_release": "fee054a5d2",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "fee054a5d25dca16fbbed0f5ec9478a3fce1acff"
+  },
+  "_source": "git://github.com/CodyHouse/vertical-timeline.git",
+  "_target": "*",
+  "_originalSource": "CodyHouse/vertical-timeline"
+}
